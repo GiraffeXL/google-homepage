@@ -1,4 +1,5 @@
 
+
 div {
     text-align: center;
   }
@@ -30,6 +31,12 @@ li {
   color: white;
   padding: 9px 23px 9px 23px;
 }
-a:link {
+a {
   text-decoration: none;
+  color: #222222;
+  font-family: arial,sans-serif;
+}
+#footer a {
+  color: #70757a;
+  background-color: #F6F6F6; 
 }
